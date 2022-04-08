@@ -1,0 +1,23 @@
+{
+  "name": "nextjs-faceauth",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "0.21.1",
+    "mongodb": "^3.5.9",
+    "next": "latest",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-redux": "7.2.4",
+    "react-webcam": "7.0.1",
+    "redux": "4.1.1",
+    "redux-devtools-extension": "2.13.9"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "description": ""
+}
